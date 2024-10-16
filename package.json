@@ -1,6 +1,6 @@
 {
   "name": "basit-test-app",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": false,
   "main": "dist/bundle.js",
   "module": "dist/bundle.js",
